@@ -15,14 +15,14 @@
         "info": "ขอบคุณนะ :)",
 		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkTqtz9oF061oQmn54m05L5-NVqkXseF3X9PNwUIpuaTAaJE0Qrj2h_mTN--9kie8yfXbPsdXeKCVTR27eWPHNJRelH0tnhxwcYsGVON-e3sbkPTDJ19r0njx8UWZ1DpOZa-EAxH7N0WM1jotOUe1kBkRF_JLpjbdLpBKjur0z6RCKUzaWlxU-iDiHkI11/s500/pngegg.png",
 		"url": "https://raw.githubusercontent.com/main-main-main/main/main-main-main-main-main-main-main-main-main-main-main/main/main/main/main/main/main/%E0%B8%AA%E0%B8%99%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%99.txt",
-		"embed": "true"
+		"embed": "false"
 	},
 	{
 		"name": "จิ้มตรงนี้",
         "info": "ขอบคุณนะ :)",
 		"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkTqtz9oF061oQmn54m05L5-NVqkXseF3X9PNwUIpuaTAaJE0Qrj2h_mTN--9kie8yfXbPsdXeKCVTR27eWPHNJRelH0tnhxwcYsGVON-e3sbkPTDJ19r0njx8UWZ1DpOZa-EAxH7N0WM1jotOUe1kBkRF_JLpjbdLpBKjur0z6RCKUzaWlxU-iDiHkI11/s500/pngegg.png",
 		"url": "https://raw.githubusercontent.com/main-main-main/main/main-main-main-main-main-main-main-main-main-main-main/main/main/main/main/main/main/%E0%B8%97%E0%B8%B3%E0%B8%9A%E0%B8%B8%E0%B8%8D.txt",
-		"embed": "true"
+		"embed": "false"
 	}
 	]
   },
@@ -30,31 +30,31 @@
 	"name":"ซีรี่ย์ฝรั่ง", 
 	"image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url":"https://raw.githubusercontent.com/main-main-main/main/main-main-main-main-main-main-main-main-main-main-main/main/main/main/main/main/main/seriesday_%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87.w3u",
-	"import":"true"
+	"import":"false"
   },
   {
 	"name":"ซีรี่ย์ญี่ปุ่น", 
 	"image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url":"https://raw.githubusercontent.com/main-main-main/main/main-main-main-main-main-main-main-main-main-main-main/main/main/main/main/main/main/seriesday_%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99.w3u",
-	"import":"true"
+	"import":"false"
   },
   {
 	"name":"ซีรี่ย์เกาหลี", 
 	"image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url":"https://raw.githubusercontent.com/main-main-main/main/main-main-main-main-main-main-main-main-main-main-main/main/main/main/main/main/main/seriesday_%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B5.w3u",
-	"import":"true"
+	"import":"false"
   },
   {
 	"name":"ซีรี่ย์จีน", 
 	"image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url":"https://raw.githubusercontent.com/main-main-main/main/main-main-main-main-main-main-main-main-main-main-main/main/main/main/main/main/main/seriesday_%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B5%E0%B8%99.w3u",
-	"import":"true"
+	"import":"false"
   },
   {
 	"name":"หนังฝรั่ง", 
 	"image":"https://fw4free.com/images/logo7.png",
 	"url":"https://raw.githubusercontent.com/main-main-main/main/main-main-main-main-main-main-main-main-main-main-main/main/main/main/main/main/main/fw4free_%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87.w3u",
-	"import":"true"
+	"import":"false"
   }
  ]
 }
