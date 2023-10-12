@@ -27,6 +27,12 @@
 	]
   },
   {
+	"name":"เจียว เจียว จัดให้", 
+	"image":"https://i.ibb.co/TWNQhtv/image.png",
+	"url":"https://raw.githubusercontent.com/main-main-main/main/main-main-main-main-main-main-main-main-main-main-main/main/main/main/main/main/main/main.w3u",
+	"import":"false"
+  },
+  {
 	"name":"ซีรี่ย์ฝรั่ง", 
 	"image":"https://www.seriesday.com/wp-content/uploads/2023/02/seriesday-logo.png",
 	"url":"https://raw.githubusercontent.com/main-main-main/main/main-main-main-main-main-main-main-main-main-main-main/main/main/main/main/main/main/seriesday_%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B9%8C%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87.w3u",
